@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/3DFullStackedBarChart/Form1.cs) (VB: [Form1.vb](./VB/3DFullStackedBarChart/Form1.vb))
+* [Program.cs](./CS/3DFullStackedBarChart/Program.cs) (VB: [Program.vb](./VB/3DFullStackedBarChart/Program.vb))
+<!-- default file list end -->
 # How to create a 3D Full-Stacked Bar chart
 
 
